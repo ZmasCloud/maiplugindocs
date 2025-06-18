@@ -2,8 +2,8 @@
 title: 关于v0.2
 description: A guide in my new Starlight docs site.
 ---
-# **目前本仓库只接收0.1的pr！！！**
-# :confetti_ball:v0.2插件***仓库***目前尚未完善**！！！**:tada:
+##### **目前本仓库只接收0.1的pr！！！**
+# :confetti_ball: v0.2插件***仓库***目前尚未完善 **！！！** :tada:
 #####（转载自麦麦开发文档）
 # 插件结构示例
 本文档提供了几种常见插件类型的完整代码示例，可以作为开发自己插件的参考。
