@@ -9,7 +9,7 @@ description: A reference page in my new Starlight docs site.
 git clone https://gitee.com/syraem-rget-p45/maiplugin.git
 ```
 
-##添加插件文件
+## 添加插件文件
 📌 **请将插件about.md文件 PR 提交至 `plugin` 分支！**
 
 请在 about.md 文件中编写一下内容内容：
