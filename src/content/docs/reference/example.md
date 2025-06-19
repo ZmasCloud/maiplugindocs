@@ -21,7 +21,7 @@ git clone https://gitee.com/syraem-rget-p45/maiplugin.git
 |----------------|------------------------|-------------------|
 ```
 
->>请不要修改markdown格式！
+>>请自行修改markdown格式（对齐）！
 
 提交你的about.md到本地仓库。
 
