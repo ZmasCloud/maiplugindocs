@@ -19,7 +19,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Reference',
+					label: '如何提交插件',
 					autogenerate: { directory: 'reference' },
 				},
 			],
