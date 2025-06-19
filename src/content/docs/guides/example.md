@@ -3,7 +3,8 @@ title: 如何写麦麦v0.1插件
 description: A guide in my new Starlight docs site.
 ---
 
-[参考麦麦v0.1开发文档](https://docs.mai-mai.org/develop/plugin_develop/plugin_examples)
+[麦麦开发文档](https://docs.mai-mai.org/develop/plugin_develop/plugin_examples)
+
 
 # 如何编写MaiBot插件
 
