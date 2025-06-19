@@ -16,6 +16,7 @@ export default defineConfig({
 						{ label: '如何写0.1插件', slug: 'guides/example' },
 						{ label: '关于v0.2', slug: 'guides/example2' },
 						{ label: '关于插件生成器', slug: 'guides/3' },
+						{ label: '插件列表', slug: 'reference/2' },
 					],
 				},
 				{
