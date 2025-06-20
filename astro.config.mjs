@@ -7,7 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: '麦麦插件仓库',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://bgithub.xyz/ZmasCloud/maiplugindocs/' }],
 			sidebar: [
 				{
 					label: '如何写插件',
