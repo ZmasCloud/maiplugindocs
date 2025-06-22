@@ -3,14 +3,12 @@ title: 如何提交插件
 description: A reference page in my new Starlight docs site.
 ---
 
-访问仓库plugin分支。
+访问仓库。
+fork本仓库
 
-```bash
-git clone https://gitee.com/syraem-rget-p45/maiplugin.git
-```
 
 ## 添加插件文件
-📌 **请将插件about.md文件 PR 提交至 `plugin` 分支！**
+📌 **请将插件about.md文件 PR 提交至 `main` 分支！**
 
 请在 about.md 文件中编写以下内容：
 
@@ -28,11 +26,14 @@ git clone https://gitee.com/syraem-rget-p45/maiplugin.git
 >>请自行修改markdown格式（对齐）！
 
 提交你的about.md到本地仓库。
-
+法1
 ```bash
 git add .
 git commit -m "添加插件xxxxxx"
 git push origin main
 ```
-
-向原始仓库发起合并请求。
+法2
+前往你的仓库
+点击pull requests（pr）
+提交pr
+等待4位ai审核通过
