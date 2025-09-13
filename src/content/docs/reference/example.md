@@ -20,9 +20,16 @@ fork本仓库
 ```
 >请确保仓库按照以下目录：
 >- 插件目录/  
->  - actions/  
->    - 插件文件.py  
->  - init.py  
+>   - name.txt 
+>   - plugin.py  
+>   - init.py
+>   - 插件仓库必须包含：
+
+• 一个init.py（在根目录）
+
+• 一个plugin.py（在根目录）
+
+• 一个name.txt（在根目录，内容为插件的内部名，用于命名actions下的文件）
 >>请自行修改markdown格式（对齐）！
 
 提交你的about.md到本地仓库。
